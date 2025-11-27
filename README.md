@@ -26,7 +26,8 @@
    - Use different selectors to style elements
    - Add box shadows to the container
 A well-structured recipe page with:
-# Project 2 — Recipe Page
+
+
 A small, responsive recipe page that demonstrates key HTML and CSS concepts for building a structured content page.
 **What's included**
 - `choclate.html`: The recipe HTML file (open this in a browser to view the page).
@@ -46,3 +47,4 @@ Contribution
 License
 - No license specified — use for learning and personal projects.
 Enjoy building and styling your recipe page!
+
